@@ -1,0 +1,88 @@
+# General
+.DS_Store
+*.log
+*.vspscc
+*.vssscc
+*.bak
+*.scc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Aa]rm64/
+[Aa]rm/
+[Xx]64/
+[Xx]86/
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+[Aa]pp_Data/
+*.exe
+*.dll
+*.pdb
+*.tmp
+*.user
+*.suo
+*.sln.docstates
+*.vsp
+*.bsc
+*.md
+
+# Packages
+# 'packages' is managed by NuGet, but not by MSBuild when inside project folders
+# Comment the next line if you don't want to ignore them (for example, if you're building from source control without NuGet restore)
+# packages/
+
+# Visual Studio files
+.vs/
+*.vshost.*
+*.user*
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.sln
+*.sdf
+*.aps
+*.ncb
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+
+# NuGet cache files
+.nuget/NuGetScratch/
+.nuget/packages/
+
+# Project files
+*.csproj.user
+*.fsproj.user
+*.vbproj.user
+*.dcproj.user
+*.vdproj.user
+*.sqlproj.user
+*.shproj.user
+*.xproj.user
+*.ndproj.user
+*.ccproj.user
+
+# Mac OS X files
+.DS_Store
+.Trashes
+._*
+
+# Linux files
+*~
+# Logs
+*.log
+log/
+
+# Node.js
+node_modules/
+
+# Docker build cache (if you copy build context)
+.dockerignore
